@@ -1,0 +1,3 @@
+- cyclegan: https://www.kaggle.com/code/bixxxxxxx/cyclegan-image-to-image/notebook
+- dcgan: https://www.kaggle.com/code/bixxxxxxx/dcgan-image-to-image?scriptVersionId=182996115
+- diffusion: https://www.kaggle.com/code/trnphipht/diffusion
